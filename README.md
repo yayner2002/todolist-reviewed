@@ -5,7 +5,6 @@
 
 - Css
 - HTML
-- Webpack
 - Javascript
 ## Live Demo
 
